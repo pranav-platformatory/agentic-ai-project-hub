@@ -39,6 +39,7 @@ What about certain principles that would help me and leverage my strengths and/o
   - [Chesterton's Fence](#chestertons-fence)
   - [The map is not the territory](#the-map-is-not-the-territory)
   - [Category 2: Principles for Solution Design](#category-2-principles-for-solution-design)
+  - [Invariants-first](#invariants-first)
   - [Robustness principle (Postel's Law)](#robustness-principle-postels-law)
   - [Category-theoretic thinking](#category-theoretic-thinking)
 - [Category 3: Principles for Shipping Under Constraint](#category-3-principles-for-shipping-under-constraint)
@@ -80,8 +81,7 @@ What about certain principles that would help me and leverage my strengths and/o
 ## Category 2: Principles for Solution Design
 > Translating diagnosis into structure.
 
-**Invariants-first**
-
+## Invariants-first
 - Ask: *"What stays true regardless of what changes around it?"*
 - System architecture is the art of building interfaces around the right invariants <br> - *not the art of picking a tech stack.*
 
