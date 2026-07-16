@@ -38,7 +38,7 @@ What about certain principles that would help me and leverage my strengths and/o
   - [Bayesian stance](#bayesian-stance)
   - [Chesterton's Fence](#chestertons-fence)
   - [The map is not the territory](#the-map-is-not-the-territory)
-  - [Category 2: Principles for Solution Design](#category-2-principles-for-solution-design)
+- [Category 2: Principles for Solution Design](#category-2-principles-for-solution-design)
   - [Invariants-first](#invariants-first)
   - [Robustness principle (Postel's Law)](#robustness-principle-postels-law)
   - [Category-theoretic thinking](#category-theoretic-thinking)
@@ -78,7 +78,7 @@ What about certain principles that would help me and leverage my strengths and/o
 
 > **Key corollary**: *Prioritize utility and legibility over fidelity.* This is the key adjustment for a research-oriented mind: the instinct is to increase model fidelity, but in client work, a model the client and your teammates can understand and trust often matters more than another decimal of accuracy.
 
-## Category 2: Principles for Solution Design
+# Category 2: Principles for Solution Design
 > Translating diagnosis into structure.
 
 ## Invariants-first
