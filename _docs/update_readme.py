@@ -35,7 +35,7 @@ def list_dir_recursive(parent:str) -> list[tuple[str]]:
             for i in range(len(new_tracked_file_tuples)):
                 new_tracked_file_tuples[i].insert(0, parent.split('/')[-1])
             tracked_file_tuples.extend(new_tracked_file_tuples)
-        elif file.split('.')[-1] == "md" and not (parent == '.' and file == "README.md"):
+        elif file.split('.')[-1] in ["md", "jpeg"] and not (parent == '.' and file == "README.md"):
             tracked_file_tuples.append([parent.split('/')[-1], file])
     
     return tracked_file_tuples
