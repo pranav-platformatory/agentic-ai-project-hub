@@ -25,3 +25,6 @@
     - Needs
     - Success definition
     - Risk assessment
+- [`data-quality-management--problem-domain-overview.jpeg`](./data-quality-management--problem-domain-overview.jpeg)
+  - Explores a potential problem domain: data quality management
+  - Agentic AI angle is under-explored

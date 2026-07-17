@@ -13,5 +13,6 @@
 **Directory: `./ideation`**:
 
 - [`README.md`](./ideation/README.md)
+- [`data-quality-management--problem-domain-overview.jpeg`](./ideation/data-quality-management--problem-domain-overview.jpeg)
 - [`frame-for-planning.jpeg`](./ideation/frame-for-planning.jpeg)
 - [`frame-for-problem-statement.jpeg`](./ideation/frame-for-problem-statement.jpeg)
