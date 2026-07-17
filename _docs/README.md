@@ -1,6 +1,6 @@
 <h1>DOCS</h1>
 
-> **NOTE**: *Only the Markdown files are listed here.*
+> **NOTE**: *Only the Markdown and image files are listed here.*
 
 ---
 

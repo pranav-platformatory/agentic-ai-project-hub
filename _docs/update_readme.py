@@ -81,7 +81,7 @@ for level in range(1, max(level2dir_map.keys()) + 1):
 with open("README.md", 'w') as fp:
     fp.write('''<h1>DOCS</h1>
 
-> **NOTE**: *Only the Markdown files are listed here.*
+> **NOTE**: *Only the Markdown and image files are listed here.*
 
 ---''')
     fp.writelines(lines)
