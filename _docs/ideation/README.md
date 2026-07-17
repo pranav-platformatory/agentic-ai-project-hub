@@ -26,5 +26,6 @@
     - Success definition
     - Risk assessment
 - [`data-quality-management--problem-domain-overview.jpeg`](./data-quality-management--problem-domain-overview.jpeg)
+  - Based on: [*What Is Data Quality and Why Is It Important?*, **www.alation.com/blog**](https://www.alation.com/blog/what-is-data-quality-why-is-it-important/)
   - Explores a potential problem domain: data quality management
   - Agentic AI angle is under-explored
