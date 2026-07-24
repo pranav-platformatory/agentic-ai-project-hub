@@ -33,5 +33,5 @@
   - Explores a potential problem domain: insurance claim processing
   - There are existing solutions in this problem domain
   - Hence, an effort has been made to explore and learn from these
-- [`agentic-ai-for-health-insurance-claim-processing--proposal.md`](./agentic-ai-for-health-insurance-claim-processing--proposal.md)
+- [`agentic-ai-for-cashless-health-insurance-claim-processing--proposal.md`](./agentic-ai-for-cashless-health-insurance-claim-processing--proposal.md)
     > Proposal.

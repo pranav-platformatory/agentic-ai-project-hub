@@ -1,4 +1,4 @@
-<h1>Agentic AI for Health Insurance Claim Processing <br> <i>Proposal</i></h1>
+<h1>Agentic AI for Cashless Health Insurance Claim Processing <br> <i>Proposal</i></h1>
 
 ---
 
