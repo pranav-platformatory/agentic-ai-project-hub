@@ -29,3 +29,9 @@
   - Based on: [*What Is Data Quality and Why Is It Important?*, **www.alation.com/blog**](https://www.alation.com/blog/what-is-data-quality-why-is-it-important/)
   - Explores a potential problem domain: data quality management
   - Agentic AI angle is under-explored
+- [`agentic-ai-for-insurance-claim-processing--learning-from-existing-solutions.md`](./agentic-ai-for-insurance-claim-processing--learning-from-existing-solutions.md)
+  - Explores a potential problem domain: insurance claim processing
+  - There are existing solutions in this problem domain
+  - Hence, an effort has been made to explore and learn from these
+- [`agentic-ai-for-health-insurance-claim-processing--proposal.md`](./agentic-ai-for-health-insurance-claim-processing--proposal.md)
+    > Proposal.
