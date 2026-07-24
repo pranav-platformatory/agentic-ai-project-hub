@@ -35,18 +35,18 @@ Automate cashless health insurance claims.
 | Geography | India |  |
 | Claim type | Health insurance claims | Threshold for claim amount to be decided |
 | Transaction type | Cashless |  |
-| Regulatory context |  | India's relevant regulations must be researched |
+| Regulatory context | ? | India's relevant regulations must be researched |
 
 # Requirements
 
 | Requirement | Remarks |
 | --- | --- |
-| Mapping of claims journey and identification of manual decision points |  |
-| Well-defined escalation rules for exceptions/borderline cases |  |
-| Human-in-the-loop integration |  |
+| Mapping of claims journey and identification of manual decision points | Defines the logical flow of the system's processing |
+| Well-defined escalation rules for exceptions/borderline cases | Provides a reliable means to identify when to fall back to human decisions |
+| Human-in-the-loop integration | Ensures human involvement at critical points during the system's functioning |
 | Domain-specific agent definitions | Ensures each agent can be optimised for a narrower set of functions/requirements, preventing the dilution of context and the diffuseness of capabilities |
-| Defined, standardised workflows (before any automation is done) |  |
-| Regulatory compliance |  |
+| Defined, standardised workflows (before any automation is done) | Bounds the system to a reliable, well-defined framework, preventing unexpected behaviours and deviations from the decided-upon objectives |
+| Regulatory compliance | Prevents ethical and legal violations |
 | Integration with existing core systems (e.g. policy administration, CRM platforms) | This avoids data silos and provides a single source of truth throughout the processing of the claim |
 | Modular architecture that can be adapted for similar problems | Ensures our solution is not one-off |
 
