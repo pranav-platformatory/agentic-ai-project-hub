@@ -12,6 +12,7 @@
 - [Problem statement](#problem-statement)
 - [Solution scope](#solution-scope)
 - [Requirements](#requirements)
+- [Business-level value](#business-level-value)
 - [Architecture](#architecture)
 - [Tools/platforms](#toolsplatforms)
 
@@ -49,6 +50,12 @@ Automate cashless health insurance claims.
 | Regulatory compliance | Prevents ethical and legal violations |
 | Integration with existing core systems (e.g. policy administration, CRM platforms) | This avoids data silos and provides a single source of truth throughout the processing of the claim |
 | Modular architecture that can be adapted for similar problems | Ensures our solution is not one-off |
+
+# Business-level value
+- [Direct impact] Reducing claim processing time and accuracy
+- Prevention of compounding cost from manual errors
+- Freeing up of manpower for more sensitive/high-impact claims/situations
+- Prevention of fatigue and attrition due to repetitive tasks
 
 # Architecture
 [TO BE DECIDED]
