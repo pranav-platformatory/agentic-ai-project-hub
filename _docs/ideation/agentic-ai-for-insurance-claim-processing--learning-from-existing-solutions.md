@@ -22,8 +22,6 @@
 # Introduction
 As we scope our own agentic AI project for insurance claims, it's worth grounding our design choices in what similar solutions have already done - both the general principles that keep recurring across implementations, and the specific gaps left open in our target domain. This note synthesizes findings from three sources: Allianz's fraud/spoilage claims automation, V7 Labs' general framework for automated claims processing, and ICICI Lombard's cashless health insurance claims system in India - the domain we're most likely to target.
 
----
-
 # Case Study 1: Allianz - Scoped Automation for High-Volume, Low-Complexity Claims
 
 > **Source**: [Allianz - "When the storm clears, so should the claim queue"](https://www.allianz.com/en/mediacenter/news/articles/251103-when-the-storm-clears-so-should-the-claim-queue.html)
