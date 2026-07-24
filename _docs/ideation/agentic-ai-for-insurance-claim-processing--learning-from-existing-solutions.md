@@ -20,7 +20,7 @@
 ---
 
 # Introduction
-As we scope our own agentic AI project for insurance claims, it's worth grounding our design choices in what similar solutions have already done - both the general principles that keep recurring across implementations, and the specific gaps left open in our target domain. This note synthesizes findings from three sources: Allianz's fraud/spoilage claims automation, V7 Labs' general framework for automated claims processing, and ICICI Lombard's cashless health insurance claims system in India - the domain we're most likely to target.
+As we scope our own agentic AI project for insurance claims, it is worth grounding our design choices in what similar solutions have already done - both the general principles that keep recurring across implementations, and the specific gaps left open in our target domain. This note synthesises findings from three sources: Allianz's fraud/spoilage claims automation, V7 Labs' general framework for automated claims processing, and ICICI Lombard's cashless health insurance claims system in India - the domain we are most likely to target.
 
 # Case Study 1: Allianz - Scoped Automation for High-Volume, Low-Complexity Claims
 
@@ -34,7 +34,7 @@ Allianz's approach offers four essential lessons:
 
 3. **Modular, extensible architecture.** The system's modularity allows it to generalize to other high-volume, low-complexity claim types (e.g., travel insurance) and adapt across geographies and socio-economic contexts. This mirrors a design principle Arun has also proposed for our project.
 
-4. **Human-in-the-loop as a core requirement.** Even a tightly scoped, highly effective agentic system can't guarantee full reliability or carry accountability on its own. For a human-centric, sensitive domain like insurance, human-in-the-loop isn't optional - it's structural.
+4. **Human-in-the-loop as a core requirement.** Even a tightly scoped, highly effective agentic system cannot guarantee full reliability or carry accountability on its own. For a human-centric, sensitive domain like insurance, human-in-the-loop is not optional - it is structural.
 
 > **TL;DR**: Carefully scoped domain → broader organizational business value → modular, extensible architecture → human-in-the-loop as a core system component.
 
@@ -88,7 +88,7 @@ The stated design intent is explicitly emergency-oriented: instant cashless proc
 ## Gaps in the existing solution
 A few observations suggest room for a stronger version of this idea:
 
-1. **Technology generation.** The ICICI Lombard system appears to predate the current LLM-driven era. It relies on ICR/OCR and earlier deep learning approaches. There's clear room to go further with LLMs, conversational/chat interfaces, and more contextual claim understanding.
+1. **Technology generation.** The ICICI Lombard system appears to predate the current LLM-driven era. It relies on ICR/OCR and earlier deep learning approaches. There is clear room to go further with LLMs, conversational/chat interfaces, and more contextual claim understanding.
 2. **No visible human-in-the-loop layer.** The solution appears scoped to low-risk cases only, without an apparent structured escalation path for borderline or complex claims. Given the Allianz and V7 Labs findings, this is a meaningful gap - trustworthiness and accountability at scale likely require human review to be built in as a core mechanism, not just handled by excluding harder cases from automation.
 
 ## Working conclusion
