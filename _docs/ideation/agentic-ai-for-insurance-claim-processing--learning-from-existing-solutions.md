@@ -5,7 +5,7 @@
 **Contents**:
 
 - [Introduction](#introduction)
-- [Case Study 1: Allianz](#case-study-1-allianz)
+- [Case Study 1: Allianz - Scoped Automation for High-Volume, Low-Complexity Claims](#case-study-1-allianz---scoped-automation-for-high-volume-low-complexity-claims)
 - [Case Study 2: V7 Labs - The General Case for Automated Claims Processing](#case-study-2-v7-labs---the-general-case-for-automated-claims-processing)
   - [The problem statement](#the-problem-statement)
   - [The approach: task-specific AI agents](#the-approach-task-specific-ai-agents)
@@ -24,8 +24,7 @@ As we scope our own agentic AI project for insurance claims, it's worth groundin
 
 ---
 
-# Case Study 1: Allianz
-> Scoped Automation for High-Volume, Low-Complexity Claims
+# Case Study 1: Allianz - Scoped Automation for High-Volume, Low-Complexity Claims
 
 > **Source**: [Allianz - "When the storm clears, so should the claim queue"](https://www.allianz.com/en/mediacenter/news/articles/251103-when-the-storm-clears-so-should-the-claim-queue.html)
 
