@@ -6,6 +6,17 @@
 
 ---
 
+**Contents**:
+
+- [Structure of this article](#structure-of-this-article)
+- [Problem statement](#problem-statement)
+- [Solution scope](#solution-scope)
+- [Requirements](#requirements)
+- [Architecture](#architecture)
+- [Tools/platforms](#toolsplatforms)
+
+---
+
 # Structure of this article
 - Problem statement
 - Solution scope
